@@ -1,6 +1,7 @@
 # dojo_app
 
-A new Flutter project.
+Hackathon project for EthGlobal Competition. For more information see here: 
+https://ethglobal.com/showcase/dojo-challenge-0e3rv
 
 ## Getting Started
 
